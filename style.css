@@ -1,0 +1,24 @@
+h1{
+    color: brown;
+    text-align: center;
+
+    
+    
+
+}
+div{
+    text-align: center;
+    background-color: bisque;
+    color: blue;
+    font-size: larger;
+    
+
+}
+*{
+    background-color: beige;
+}
+button{
+    color: brown;
+    background-color:rgb(195, 195, 210)
+    
+}
